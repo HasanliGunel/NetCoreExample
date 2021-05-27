@@ -1,0 +1,5 @@
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_3\Tapshiriq_3\obj\Debug\net5.0\Tapshiriq_3.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_3\Tapshiriq_3\obj\Debug\net5.0\Tapshiriq_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_3\Tapshiriq_3\obj\Debug\net5.0\Tapshiriq_3.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_3\Tapshiriq_3\obj\Debug\net5.0\Tapshiriq_3.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_3\Tapshiriq_3\obj\Debug\net5.0\Tapshiriq_3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.exe
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.deps.json
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.dll
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\bin\Debug\netcoreapp3.1\Tapshiriq_4.pdb
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.dll
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.pdb
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Tapshiriq_4\Tapshiriq_4\obj\Debug\netcoreapp3.1\Tapshiriq_4.genruntimeconfig.cache

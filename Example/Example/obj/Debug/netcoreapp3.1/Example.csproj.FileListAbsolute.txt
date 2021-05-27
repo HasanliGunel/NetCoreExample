@@ -1,0 +1,5 @@
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Example\Example\obj\Debug\netcoreapp3.1\Example.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Tecrube_tapsiriq\Example\Example\obj\Debug\netcoreapp3.1\Example.MvcApplicationPartsAssemblyInfo.cache
